@@ -1,5 +1,5 @@
 # ML algorithms and Python
-Some introduction to python, training data processing and some machine learning algorithms from Project 1 20212(9đ)  
+Some introduction to python, training data processing and some machine learning algorithms from Project 1   
 
 Including Linear Regression, Logistic Regression, KNN, Naive Bayes and Decision Tree.
 
